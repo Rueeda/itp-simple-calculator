@@ -1,5 +1,3 @@
-from calculator import add 
-
 def add(x, y):
     return x + y
 result = add(1,2) 
